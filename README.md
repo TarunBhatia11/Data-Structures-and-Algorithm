@@ -6,7 +6,8 @@ Welcome to my DSA journey! This repo contains daily algorithmic problem-solving 
 
 | Day | Problem | Solution |
 |-----|---------|----------|
-| 1   | [Merge Overlapping Interval](https://www.geeksforgeeks.org/dsa/merging-intervals/) | [C++](Day01/solution.py) |
+| 1   | [Merge Overlapping Interval](https://www.geeksforgeeks.org/dsa/merging-intervals/) | [C++](Day01/solution1.cpp) |
+|     | [Find minimum number of merge operations to make an array palindrome](https://www.geeksforgeeks.org/dsa/find-minimum-number-of-merge-operations-to-make-an-array-palindrome/) | [C++](Day01/Solution2.cpp) |
 | 2   | 
 
 ## 🧱 Structure
