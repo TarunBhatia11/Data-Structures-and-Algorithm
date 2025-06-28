@@ -1,0 +1,24 @@
+#Problem 1 Merge Overlapping Intervals
+
+Given an array of time intervals where arr[i] = [starti, endi], the task is to merge all the overlapping intervals into one and output the result which should have only mutually exclusive intervals.
+
+Examples:
+
+Input: arr[] = [[1, 3], [2, 4], [6, 8], [9, 10]]
+Output: [[1, 4], [6, 8], [9, 10]]
+Explanation: In the given intervals, we have only two overlapping intervals [1, 3] and [2, 4]. Therefore, we will merge these two and return [[1, 4]], [6, 8], [9, 10]].
+
+Input: arr[] = [[7, 8], [1, 5], [2, 4], [4, 6]]
+Output: [[1, 6], [7, 8]]
+Explanation: We will merge the overlapping intervals [[1, 5], [2, 4], [4, 6]] into a single interval [1, 6].
+
+
+
+#Approach I used:
+
+If we encounter an interval whose starting time lies outside the last merged interval, then all further intervals will also lie outside it. 
+
+The intuition is to first sort the intervals based on their starting points. This allows us to easily identify overlapping intervals by comparing
+each interval with the last merged interval. Now, iterate over each interval and if the current interval overlaps with the last merged interval, 
+then merge them both. Otherwise, append the merged interval to the result.
+
