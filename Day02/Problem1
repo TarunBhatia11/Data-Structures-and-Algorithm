@@ -1,0 +1,29 @@
+### Problem 1 Arrange given numbers to form the biggest number
+
+Given an array of non-negative integers arr[], the task is to arrange them in a manner such that after concatenating them in order, 
+it results in the largest possible number. Since the result may be very large, return it as a string.
+
+Examples:
+
+Input: arr[] =  [3, 30, 34, 5, 9]
+Output: "9534330"
+Explanation: The arrangement [9, 5, 34, 3, 30], gives the largest value "9534330".
+
+Input: arr[] =  [54, 546, 548, 60]
+Output: "6054854654"
+Explanation: The arrangement [60, 548, 546, 54], gives the largest value "6054854654".
+
+Input: arr[] =  [3, 4, 6, 5, 9]
+Output: "96543"
+Explanation: The arrangement [9, 6, 5, 4, 3], gives the largest value "96543".
+
+
+#Approach I used
+
+approach is to sort the numbers based on the lexicographical ordering of their concatenations. To achieve the correct order, 
+we need to define a custom comparator for sorting. We compare two strings X and Y by comparing the concatenated results of XY and YX.
+
+Detailed idea to use custom comparison function to sort the array:
+
+For two strings X and Y, compare the concatenated results XY (X followed by Y) and YX (Y followed by X).
+If XY is greater than YX, then X should come before Y in the final result.
