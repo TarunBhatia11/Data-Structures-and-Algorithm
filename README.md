@@ -13,7 +13,9 @@ Welcome to my DSA journey! This repo contains daily algorithmic problem-solving 
 | 3   | [Longest Subarray With Sum Divisible By K](https://www.geeksforgeeks.org/dsa/longest-subarray-sum-divisible-k/) | [C++](Day03/solution01.cpp) |
 |     | [All combinations of size r from an array](https://www.geeksforgeeks.org/dsa/print-all-possible-combinations-of-r-elements-in-a-given-array-of-size-n/) | [C++](Day03/solution02.cpp) |
 |     | [MO's Algorithm (Query Square Root Decomposition) Set 1 (Introduction)](https://www.geeksforgeeks.org/mos-algorithm-query-square-root-decomposition-set-1-introduction/) | [C++](Day03/solution03.cpp)|
-| 4   |
+| 4   | [Word Search](https://leetcode.com/problems/word-search/description/) | [C++](Day04/solution01.cpp) |
+|     | [Word Search 2](https://leetcode.com/problems/word-search-ii/) | [C++](Day04/solution02.cpp) |
+|     |
 
 ## 🧱 Structure
 
