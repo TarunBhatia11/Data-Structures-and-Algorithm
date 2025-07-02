@@ -15,7 +15,9 @@ Welcome to my DSA journey! This repo contains daily algorithmic problem-solving 
 |     | [MO's Algorithm (Query Square Root Decomposition) Set 1 (Introduction)](https://www.geeksforgeeks.org/mos-algorithm-query-square-root-decomposition-set-1-introduction/) | [C++](Day03/solution03.cpp)|
 | 4   | [Word Search](https://leetcode.com/problems/word-search/description/) | [C++](Day04/solution01.cpp) |
 |     | [Word Search 2](https://leetcode.com/problems/word-search-ii/) | [C++](Day04/solution02.cpp) |
-|     |
+| 5   | [First Negative integer in every window of size k](https://www.geeksforgeeks.org/problems/first-negative-integer-in-every-window-of-size-k3345/1) | [C++](Day05/solution01.cpp) |
+|     | [Count occurences of Anagrams](https://www.geeksforgeeks.org/problems/count-occurences-of-anagrams5839/1) | [C++](Day05/solution02.cpp) |
+| 6   | 
 
 ## 🧱 Structure
 
