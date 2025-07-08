@@ -17,7 +17,10 @@ Welcome to my DSA journey! This repo contains daily algorithmic problem-solving 
 |     | [Word Search 2](https://leetcode.com/problems/word-search-ii/) | [C++](Day04/solution02.cpp) |
 | 5   | [First Negative integer in every window of size k](https://www.geeksforgeeks.org/problems/first-negative-integer-in-every-window-of-size-k3345/1) | [C++](Day05/solution01.cpp) |
 |     | [Count occurences of Anagrams](https://www.geeksforgeeks.org/problems/count-occurences-of-anagrams5839/1) | [C++](Day05/solution02.cpp) |
-| 6   | 
+| 6   | [Power of Three](https://leetcode.com/problems/power-of-three/) | [C++](Day06/solution01.cpp) |
+| 7   | [Permutation](https://leetcode.com/problems/permutations/description/) | [C++](Day07/solution01.cpp) |
+|     | [Permutation 2](https://leetcode.com/problems/permutations-ii/description/) | [C++](Day07/solution02.cpp) |
+| 8   |
 
 ## 🧱 Structure
 
