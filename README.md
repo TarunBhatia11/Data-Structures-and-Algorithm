@@ -20,7 +20,8 @@ Welcome to my DSA journey! This repo contains daily algorithmic problem-solving 
 | 6   | [Power of Three](https://leetcode.com/problems/power-of-three/) | [C++](Day06/solution01.cpp) |
 | 7   | [Permutation](https://leetcode.com/problems/permutations/description/) | [C++](Day07/solution01.cpp) |
 |     | [Permutation 2](https://leetcode.com/problems/permutations-ii/description/) | [C++](Day07/solution02.cpp) |
-| 8   |
+| 8   | [Jump Game](https://leetcode.com/problems/jump-game/) | [C++](Day08/solution01.cpp) |
+|     | 
 
 ## 🧱 Structure
 
